@@ -1,6 +1,6 @@
 # F-Charge_Product-Client_Managment
 
-
+This project is for analyze Prodcut and Client Management using POstgre SQL, Django and Python. You can also visualize charts and database on frontend side and modify, delete ,add acccording to requiremnets.
 
 https://user-images.githubusercontent.com/113979076/212086840-177bdc5e-fd13-4b34-badd-4351dfb17914.mp4
 
